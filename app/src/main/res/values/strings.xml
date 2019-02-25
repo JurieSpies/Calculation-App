@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CalculationApp</string>
+    <string name="plusButton">+</string>
+    <string name="minusButton">-</string>
+    <string name="num_1">3</string>
+    <string name="num_2">2</string>
+    <string name="generate_new_numbers">Generate new Numbers</string>
+
+</resources>
+
